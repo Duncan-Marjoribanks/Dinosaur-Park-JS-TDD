@@ -11,5 +11,8 @@
   "devDependencies": {
     "mocha": "^5.2.0"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
 }
